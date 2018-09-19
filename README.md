@@ -1,2 +1,2 @@
-# Erb_Street_Website
+# Erb Street Website
 This is the official website for Erb Street. 
