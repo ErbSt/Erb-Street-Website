@@ -2,7 +2,7 @@ body {
 	background: rgba(0,0,0,0.9);
 	margin: 0;
 	color: #fff;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: Arial, Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .showcase::after {
@@ -48,6 +48,7 @@ body {
 }
 
 .content .title {
+	font-family: 'Arial Black';
 	font-size: 2.2rem;
 	margin-top: 1rem;
 }
